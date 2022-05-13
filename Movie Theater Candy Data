@@ -1,4 +1,0 @@
-import pandas as pd 
-import pandas as pd 
-df = pd.DataFrame({'Name':['Butterfinger Minis', 'Junior Mints', 'M&Ms', 'Milk Duds', 'Peanut M&Ms', 'Raisinets', 'Receses Pieces','Skittles', 'Sour Patch Kids', 'SweeTarts', 'Twizzlers', 'Whoppers'], 'Sugar(g)':[45,107,62,44,79,60,61,87,92,136,59,48], 'Calories':[450,570,480,370,790,420,580,450,490,680,460,350]})
-df.head(2)
